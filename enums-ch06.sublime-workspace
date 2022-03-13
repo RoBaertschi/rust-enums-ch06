@@ -1,0 +1,1150 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"four",
+				"FromUtf8Error"
+			],
+			[
+				"SDL_Set",
+				"SDL_SetWindowBordered"
+			],
+			[
+				"SDL_Destroy",
+				"SDL_DestroyWindow"
+			],
+			[
+				"SDL_Q",
+				"SDL_QUIT"
+			],
+			[
+				"SDL_Des",
+				"SDL_DestroyWindow"
+			],
+			[
+				"SDL_WINPOS",
+				"SDL_WINDOWPOS_UNDEFINED"
+			],
+			[
+				"SDL_INIT_",
+				"SDL_INIT_EVERYTHING"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.rs",
+			"settings":
+			{
+				"buffer_size": 112,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "enum"
+					},
+					"BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					15,
+					1,
+					"insert_completion",
+					{
+						"completion": "#[derive(Debug)]\nenum ${1:Name} {\n\t${2:Variant1},\n\t${3:Variant2},\n}",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "enum"
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAZW51bQAAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "IpAd"
+					},
+					"BQAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAXAAAAAAAAAAQAAABOYW1lFwAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "dr"
+					},
+					"AgAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAGgAAAAAAAAAaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "Kind"
+					},
+					"BAAAABwAAAAAAAAAHQAAAAAAAAAAAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAACcAAAAAAAAAJwAAAAAAAAAIAAAAVmFyaWFudDE",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "V4"
+					},
+					"AgAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwAAAAAAAAAnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC8AAAAAAAAALwAAAAAAAAAIAAAAVmFyaWFudDI",
+					"AQAAAAAAAAABAAAALwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "V8"
+					},
+					"AgAAAC8AAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAxAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALwAAAAAAAAAvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAABAAAAOA",
+					"AQAAAAAAAAABAAAAMQAAAAAAAAAxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "6"
+					},
+					"AQAAADAAAAAAAAAAMQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					17,
+					"left_delete",
+					null,
+					"EQAAABAAAAAAAAAAEAAAAAAAAAABAAAACg8AAAAAAAAADwAAAAAAAAABAAAAXQ4AAAAAAAAADgAAAAAAAAABAAAAKQ0AAAAAAAAADQAAAAAAAAABAAAAZwwAAAAAAAAADAAAAAAAAAABAAAAdQsAAAAAAAAACwAAAAAAAAABAAAAYgoAAAAAAAAACgAAAAAAAAABAAAAZQkAAAAAAAAACQAAAAAAAAABAAAARAgAAAAAAAAACAAAAAAAAAABAAAAKAcAAAAAAAAABwAAAAAAAAABAAAAZQYAAAAAAAAABgAAAAAAAAABAAAAdgUAAAAAAAAABQAAAAAAAAABAAAAaQQAAAAAAAAABAAAAAAAAAABAAAAcgMAAAAAAAAAAwAAAAAAAAABAAAAZQIAAAAAAAAAAgAAAAAAAAABAAAAZAEAAAAAAAAAAQAAAAAAAAABAAAAWwAAAAAAAAAAAAAAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAADAAAAAAAAAAMAAAAAAAAAAfAAAACiAgICBwcmludGxuISgiSGVsbG8sIHdvcmxkISIpOw",
+					"AQAAAAAAAAABAAAATwAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\nlet"
+					},
+					"BQAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert_completion",
+					{
+						"completion": "let ${1:pat} = ${2:expr};",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "let"
+					},
+					"AgAAADUAAAAAAAAANQAAAAAAAAADAAAAbGV0NQAAAAAAAABEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "four"
+					},
+					"BQAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAAMAAABwYXQ6AAAAAAAAADsAAAAAAAAAAAAAADsAAAAAAAAAPAAAAAAAAAAAAAAAPAAAAAAAAAA9AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"label\":\"FromUtf8Error (use std::string::FromUtf8Error)\",\"sortText\":\"ffffffff\",\"filterText\":\"FromUtf8Error\",\"data\":{\"imports\":[{\"full_import_path\":\"std::string::FromUtf8Error\",\"imported_name\":\"FromUtf8Error\"}],\"position\":{\"position\":{\"line\":6,\"character\":12},\"textDocument\":{\"uri\":\"file:///home/robin/rust/rust-enums-ch06/src/main.rs\"}}},\"additionalTextEdits\":[],\"textEdit\":{\"range\":{\"start\":{\"line\":6,\"character\":8},\"end\":{\"line\":6,\"character\":12}},\"newText\":\"FromUtf8Error\"},\"documentation\":{\"value\":\"A possible error value when converting a `String` from a UTF-8 byte vector.\\n\\nThis type is the error type for the [`from_utf8`] method on [`String`]. It\\nis designed in such a way to carefully avoid reallocations: the\\n[`into_bytes`] method will give back the byte vector that was used in the\\nconversion attempt.\\n\\n[`from_utf8`]: String::from_utf8\\n[`into_bytes`]: FromUtf8Error::into_bytes\\n\\nThe [`Utf8Error`] type provided by [`std::str`] represents an error that may\\noccur when converting a slice of [`u8`]s to a [`&str`]. In this sense, it's\\nan analogue to `FromUtf8Error`, and you can get one from a `FromUtf8Error`\\nthrough the [`utf8_error`] method.\\n\\n[`Utf8Error`]: str::Utf8Error \\\"std::str::Utf8Error\\\"\\n[`std::str`]: core::str \\\"std::str\\\"\\n[`&str`]: prim@str \\\"&str\\\"\\n[`utf8_error`]: FromUtf8Error::utf8_error\\n\\n# Examples\\n\\nBasic usage:\\n\\n```rust\\n// some invalid bytes, in a vector\\nlet bytes = vec![0, 159];\\n\\nlet value = String::from_utf8(bytes);\\n\\nassert!(value.is_err());\\nassert_eq!(vec![0, 159], value.unwrap_err().into_bytes());\\n```\",\"kind\":\"markdown\"},\"kind\":22,\"deprecated\":false},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							28,
+							38,
+							5
+						],
+						"trigger": "FromUtf8Error"
+					},
+					"AgAAADkAAAAAAAAAOQAAAAAAAAAEAAAAZm91cjkAAAAAAAAARgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									0,
+									0
+								],
+								[
+									0,
+									0
+								],
+								"use std::string::FromUtf8Error;",
+								null
+							],
+							[
+								[
+									0,
+									0
+								],
+								[
+									0,
+									0
+								],
+								"\n\n",
+								null
+							]
+						]
+					},
+					"AgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					13,
+					"left_delete",
+					null,
+					"DQAAAGYAAAAAAAAAZgAAAAAAAAABAAAAcmUAAAAAAAAAZQAAAAAAAAABAAAAb2QAAAAAAAAAZAAAAAAAAAABAAAAcmMAAAAAAAAAYwAAAAAAAAABAAAAcmIAAAAAAAAAYgAAAAAAAAABAAAARWEAAAAAAAAAYQAAAAAAAAABAAAAOGAAAAAAAAAAYAAAAAAAAAABAAAAZl8AAAAAAAAAXwAAAAAAAAABAAAAdF4AAAAAAAAAXgAAAAAAAAABAAAAVV0AAAAAAAAAXQAAAAAAAAABAAAAbVwAAAAAAAAAXAAAAAAAAAABAAAAb1sAAAAAAAAAWwAAAAAAAAABAAAAcloAAAAAAAAAWgAAAAAAAAABAAAARg",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "four"
+					},
+					"BAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"label\":\"FromUtf8Error\",\"sortText\":\"ffffffff\",\"filterText\":\"FromUtf8Error\",\"additionalTextEdits\":[],\"textEdit\":{\"range\":{\"start\":{\"line\":8,\"character\":8},\"end\":{\"line\":8,\"character\":12}},\"newText\":\"FromUtf8Error\"},\"documentation\":{\"value\":\"A possible error value when converting a `String` from a UTF-8 byte vector.\\n\\nThis type is the error type for the [`from_utf8`] method on [`String`]. It\\nis designed in such a way to carefully avoid reallocations: the\\n[`into_bytes`] method will give back the byte vector that was used in the\\nconversion attempt.\\n\\n[`from_utf8`]: String::from_utf8\\n[`into_bytes`]: FromUtf8Error::into_bytes\\n\\nThe [`Utf8Error`] type provided by [`std::str`] represents an error that may\\noccur when converting a slice of [`u8`]s to a [`&str`]. In this sense, it's\\nan analogue to `FromUtf8Error`, and you can get one from a `FromUtf8Error`\\nthrough the [`utf8_error`] method.\\n\\n[`Utf8Error`]: str::Utf8Error \\\"std::str::Utf8Error\\\"\\n[`std::str`]: core::str \\\"std::str\\\"\\n[`&str`]: prim@str \\\"&str\\\"\\n[`utf8_error`]: FromUtf8Error::utf8_error\\n\\n# Examples\\n\\nBasic usage:\\n\\n```rust\\n// some invalid bytes, in a vector\\nlet bytes = vec![0, 159];\\n\\nlet value = String::from_utf8(bytes);\\n\\nassert!(value.is_err());\\nassert_eq!(vec![0, 159], value.unwrap_err().into_bytes());\\n```\",\"kind\":\"markdown\"},\"kind\":22,\"deprecated\":false},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							32,
+							42,
+							4
+						],
+						"trigger": "FromUtf8Error"
+					},
+					"AgAAAFoAAAAAAAAAWgAAAAAAAAAEAAAAZm91cloAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					13,
+					"left_delete",
+					null,
+					"DQAAAGYAAAAAAAAAZgAAAAAAAAABAAAAcmUAAAAAAAAAZQAAAAAAAAABAAAAb2QAAAAAAAAAZAAAAAAAAAABAAAAcmMAAAAAAAAAYwAAAAAAAAABAAAAcmIAAAAAAAAAYgAAAAAAAAABAAAARWEAAAAAAAAAYQAAAAAAAAABAAAAOGAAAAAAAAAAYAAAAAAAAAABAAAAZl8AAAAAAAAAXwAAAAAAAAABAAAAdF4AAAAAAAAAXgAAAAAAAAABAAAAVV0AAAAAAAAAXQAAAAAAAAABAAAAbVwAAAAAAAAAXAAAAAAAAAABAAAAb1sAAAAAAAAAWwAAAAAAAAABAAAAcloAAAAAAAAAWgAAAAAAAAABAAAARg",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "four"
+					},
+					"BAAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABcAAAAAAAAAAAAAABcAAAAAAAAAF0AAAAAAAAAAAAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					4,
+					"left_delete",
+					null,
+					"BAAAAGQAAAAAAAAAZAAAAAAAAAABAAAAcmMAAAAAAAAAYwAAAAAAAAABAAAAcGIAAAAAAAAAYgAAAAAAAAABAAAAeGEAAAAAAAAAYQAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"filterText\":\"IpAddrKind\",\"sortText\":\"ffffffff\",\"label\":\"IpAddrKind\",\"additionalTextEdits\":[],\"deprecated\":false,\"kind\":13,\"textEdit\":{\"range\":{\"start\":{\"line\":8,\"character\":15},\"end\":{\"line\":8,\"character\":16}},\"newText\":\"IpAddrKind\"}},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							42,
+							55,
+							1
+						],
+						"trigger": "IpAddrKind"
+					},
+					"AgAAAGEAAAAAAAAAYQAAAAAAAAABAAAASWEAAAAAAAAAawAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "::"
+					},
+					"AgAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"filterText\":\"V4\",\"label\":\"V4\",\"sortText\":\"fffffffc\",\"detail\":\"()\",\"preselect\":true,\"additionalTextEdits\":[],\"deprecated\":false,\"kind\":20,\"textEdit\":{\"range\":{\"start\":{\"line\":8,\"character\":27},\"end\":{\"line\":8,\"character\":27}},\"newText\":\"V4\"}},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": true,
+						"query_change_id":
+						[
+							44,
+							57,
+							2
+						],
+						"trigger": "V4"
+					},
+					"AQAAAG0AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "\nlet"
+					},
+					"BQAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAAB1AAAAAAAAAAAAAAB1AAAAAAAAAHYAAAAAAAAAAAAAAHYAAAAAAAAAdwAAAAAAAAAAAAAAdwAAAAAAAAB4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " six"
+					},
+					"BAAAAHgAAAAAAAAAeQAAAAAAAAAAAAAAeQAAAAAAAAB6AAAAAAAAAAAAAAB6AAAAAAAAAHsAAAAAAAAAAAAAAHsAAAAAAAAAfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAeAAAAAAAAAB4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"label\":\"SliceIndex (use std::slice::SliceIndex)\",\"sortText\":\"ffffffff\",\"filterText\":\"SliceIndex\",\"data\":{\"imports\":[{\"full_import_path\":\"std::slice::SliceIndex\",\"imported_name\":\"SliceIndex\"}],\"position\":{\"position\":{\"line\":9,\"character\":11},\"textDocument\":{\"uri\":\"file:///home/robin/rust/rust-enums-ch06/src/main.rs\"}}},\"additionalTextEdits\":[],\"textEdit\":{\"range\":{\"start\":{\"line\":9,\"character\":8},\"end\":{\"line\":9,\"character\":11}},\"newText\":\"SliceIndex\"},\"documentation\":{\"value\":\"A helper trait used for indexing operations.\\n\\nImplementations of this trait have to promise that if the argument\\nto `get_(mut_)unchecked` is a safe reference, then so is the result.\",\"kind\":\"markdown\"},\"kind\":8,\"deprecated\":false},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							48,
+							61,
+							4
+						],
+						"trigger": "SliceIndex"
+					},
+					"AgAAAHkAAAAAAAAAeQAAAAAAAAADAAAAc2l4eQAAAAAAAACDAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									0,
+									4
+								],
+								[
+									0,
+									7
+								],
+								"std",
+								null
+							],
+							[
+								[
+									0,
+									7
+								],
+								[
+									0,
+									9
+								],
+								"",
+								null
+							],
+							[
+								[
+									0,
+									9
+								],
+								[
+									0,
+									15
+								],
+								"",
+								null
+							],
+							[
+								[
+									0,
+									15
+								],
+								[
+									0,
+									17
+								],
+								"",
+								null
+							],
+							[
+								[
+									0,
+									17
+								],
+								[
+									0,
+									30
+								],
+								"",
+								null
+							],
+							[
+								[
+									0,
+									30
+								],
+								[
+									0,
+									30
+								],
+								"::",
+								null
+							],
+							[
+								[
+									0,
+									30
+								],
+								[
+									0,
+									30
+								],
+								"{string::FromUtf8Error, slice::SliceIndex}",
+								null
+							]
+						]
+					},
+					"BwAAAB4AAAAAAAAASAAAAAAAAAAAAAAAHgAAAAAAAAAgAAAAAAAAAAAAAAARAAAAAAAAABEAAAAAAAAADQAAAEZyb21VdGY4RXJyb3IPAAAAAAAAAA8AAAAAAAAAAgAAADo6CQAAAAAAAAAJAAAAAAAAAAYAAABzdHJpbmcHAAAAAAAAAAcAAAAAAAAAAgAAADo6BAAAAAAAAAAHAAAAAAAAAAMAAABzdGQ",
+					"AQAAAAAAAAABAAAAgwAAAAAAAACDAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					13,
+					"left_delete",
+					null,
+					"DQAAAJcAAAAAAAAAlwAAAAAAAAABAAAAeJYAAAAAAAAAlgAAAAAAAAABAAAAZZUAAAAAAAAAlQAAAAAAAAABAAAAZJQAAAAAAAAAlAAAAAAAAAABAAAAbpMAAAAAAAAAkwAAAAAAAAABAAAASZIAAAAAAAAAkgAAAAAAAAABAAAAZZEAAAAAAAAAkQAAAAAAAAABAAAAY5AAAAAAAAAAkAAAAAAAAAABAAAAaY8AAAAAAAAAjwAAAAAAAAABAAAAbI4AAAAAAAAAjgAAAAAAAAABAAAAU40AAAAAAAAAjQAAAAAAAAABAAAAIIwAAAAAAAAAjAAAAAAAAAABAAAAdIsAAAAAAAAAiwAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIoAAAAAAAAAigAAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": "let"
+					},
+					"AwAAAIoAAAAAAAAAiwAAAAAAAAAAAAAAiwAAAAAAAACMAAAAAAAAAAAAAACMAAAAAAAAAI0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAigAAAAAAAACKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert_completion",
+					{
+						"completion": "let ${1:pat} = ${2:expr};",
+						"format": "snippet",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "let"
+					},
+					"AgAAAIoAAAAAAAAAigAAAAAAAAADAAAAbGV0igAAAAAAAACZAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjQAAAAAAAACNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "six"
+					},
+					"BAAAAI4AAAAAAAAAjwAAAAAAAAAAAAAAjwAAAAAAAACPAAAAAAAAAAMAAABwYXSPAAAAAAAAAJAAAAAAAAAAAAAAAJAAAAAAAAAAkQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"detail\":\"fn(__m256i, __m256i) -> __m256i\",\"filterText\":\"_mm256_shuffle_i32x4\",\"textEdit\":{\"range\":{\"start\":{\"line\":9,\"character\":8},\"end\":{\"line\":9,\"character\":11}},\"newText\":\"_mm256_shuffle_i32x4(${1:a}, ${2:b})$0\"},\"label\":\"_mm256_shuffle_i32x4(…) (use std::arch::x86_64::_mm256_shuffle_i32x4)\",\"kind\":3,\"documentation\":{\"value\":\"Shuffle 128-bits (composed of 4 32-bit integers) selected by imm8 from a and b, and store the results in dst.\\n\\n[Intel's documentation](https://software.intel.com/sites/landingpage/IntrinsicsGuide/#text=_mm256_shuffle_i32x4&expand=5174)\",\"kind\":\"markdown\"},\"data\":{\"imports\":[{\"full_import_path\":\"std::arch::x86_64::_mm256_shuffle_i32x4\",\"imported_name\":\"_mm256_shuffle_i32x4\"}],\"position\":{\"position\":{\"line\":9,\"character\":11},\"textDocument\":{\"uri\":\"file:///home/robin/rust/rust-enums-ch06/src/main.rs\"}}},\"insertTextFormat\":2,\"sortText\":\"fffffffc\",\"preselect\":true,\"command\":{\"command\":\"editor.action.triggerParameterHints\",\"title\":\"triggerParameterHints\"},\"additionalTextEdits\":[],\"deprecated\":false},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							55,
+							68,
+							4
+						],
+						"trigger": "_mm256_shuffle_i32x4"
+					},
+					"AgAAAI4AAAAAAAAAjgAAAAAAAAADAAAAc2l4jgAAAAAAAACoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									0,
+									50
+								],
+								[
+									0,
+									50
+								],
+								",",
+								null
+							],
+							[
+								[
+									0,
+									50
+								],
+								[
+									0,
+									50
+								],
+								" ",
+								null
+							],
+							[
+								[
+									0,
+									50
+								],
+								[
+									0,
+									50
+								],
+								"arch::x86_64::_mm256_shuffle_i32x4",
+								null
+							]
+						]
+					},
+					"AwAAADIAAAAAAAAAVAAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAyAAAAAAAAADMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAowAAAAAAAACkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					20,
+					"left_delete",
+					null,
+					"FAAAAMcAAAAAAAAAxwAAAAAAAAABAAAAYcYAAAAAAAAAxgAAAAAAAAABAAAAKMUAAAAAAAAAxQAAAAAAAAABAAAANMQAAAAAAAAAxAAAAAAAAAABAAAAeMMAAAAAAAAAwwAAAAAAAAABAAAAMsIAAAAAAAAAwgAAAAAAAAABAAAAM8EAAAAAAAAAwQAAAAAAAAABAAAAacAAAAAAAAAAwAAAAAAAAAABAAAAX78AAAAAAAAAvwAAAAAAAAABAAAAZb4AAAAAAAAAvgAAAAAAAAABAAAAbL0AAAAAAAAAvQAAAAAAAAABAAAAZrwAAAAAAAAAvAAAAAAAAAABAAAAZrsAAAAAAAAAuwAAAAAAAAABAAAAdboAAAAAAAAAugAAAAAAAAABAAAAaLkAAAAAAAAAuQAAAAAAAAABAAAAc7gAAAAAAAAAuAAAAAAAAAABAAAAX7cAAAAAAAAAtwAAAAAAAAABAAAANrYAAAAAAAAAtgAAAAAAAAABAAAANbUAAAAAAAAAtQAAAAAAAAABAAAAMrQAAAAAAAAAtAAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAxwAAAAAAAADIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAALMAAAAAAAAAswAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					5,
+					"left_delete",
+					null,
+					"BQAAALYAAAAAAAAAtgAAAAAAAAABAAAAKbUAAAAAAAAAtQAAAAAAAAABAAAAYrQAAAAAAAAAtAAAAAAAAAABAAAAILMAAAAAAAAAswAAAAAAAAABAAAALLIAAAAAAAAAsgAAAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": "six"
+					},
+					"AwAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAC0AAAAAAAAALUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsgAAAAAAAACyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAALYAAAAAAAAAugAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					5,
+					"left_delete",
+					null,
+					"BQAAALkAAAAAAAAAuQAAAAAAAAABAAAAILgAAAAAAAAAuAAAAAAAAAABAAAAILcAAAAAAAAAtwAAAAAAAAABAAAAILYAAAAAAAAAtgAAAAAAAAABAAAAILUAAAAAAAAAtQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALUAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					4,
+					"left_delete",
+					null,
+					"BAAAALsAAAAAAAAAuwAAAAAAAAABAAAAcroAAAAAAAAAugAAAAAAAAABAAAAcLkAAAAAAAAAuQAAAAAAAAABAAAAeLgAAAAAAAAAuAAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAAvAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAALgAAAAAAAAAuQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					84,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"filterText\":\"IpAddrKind\",\"sortText\":\"ffffffff\",\"label\":\"IpAddrKind\",\"additionalTextEdits\":[],\"deprecated\":false,\"kind\":13,\"textEdit\":{\"range\":{\"start\":{\"line\":9,\"character\":14},\"end\":{\"line\":9,\"character\":15}},\"newText\":\"IpAddrKind\"}},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							69,
+							83,
+							1
+						],
+						"trigger": "IpAddrKind"
+					},
+					"AgAAALgAAAAAAAAAuAAAAAAAAAABAAAASbgAAAAAAAAAwgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "::"
+					},
+					"AgAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion_item {\"item\":{\"filterText\":\"V6\",\"label\":\"V6\",\"sortText\":\"fffffffc\",\"detail\":\"()\",\"preselect\":true,\"additionalTextEdits\":[],\"deprecated\":false,\"kind\":20,\"textEdit\":{\"range\":{\"start\":{\"line\":9,\"character\":26},\"end\":{\"line\":9,\"character\":26}},\"newText\":\"V6\"}},\"session_name\":\"rust-analyzer\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": true,
+						"query_change_id":
+						[
+							71,
+							85,
+							2
+						],
+						"trigger": "V6"
+					},
+					"AQAAAMQAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAABZAAAAdXNlIHN0ZDo6e3N0cmluZzo6RnJvbVV0ZjhFcnJvciwgc2xpY2U6OlNsaWNlSW5kZXgsIGFyY2g6Ong4Nl82NDo6X21tMjU2X3NodWZmbGVfaTMyeDR9Owo",
+					"AQAAAAAAAAABAAAAAAAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+				]
+			]
+		}
+	],
+	"build_system": "Packages/Rust/Cargo.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/cpp.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/ShellScript/ShellScript.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cpp.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/ShellScript/ShellScript.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Mater",
+				"Material Theme: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Ina",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+			"ls",
+			"exit()",
+			"./run.sh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/robin/rust/rust-enums-ch06",
+		"/home/robin/rust/rust-enums-ch06/src"
+	],
+	"file_history":
+	[
+		"/home/robin/.config/sublime-text/Packages/Terminal/Default (Linux).sublime-keymap",
+		"/home/robin/.config/sublime-text/Packages/User/cpp.sublime-build",
+		"/home/robin/c_work/sdl/a.out",
+		"/home/robin/Tutria/Episode 1/main.cpp"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.rs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".>:",
+									"selector": "source.c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>:",
+									"selector": "source.c - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.objc - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".>: ",
+									"selector": "source.cuda-c++ - string - comment - constant.numeric"
+								},
+								{
+									"characters": ":.'",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "rust-analyzer"
+								}
+							],
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///home/robin/rust/rust-enums-ch06/src/main.rs",
+							"show_definitions": false,
+							"syntax": "Packages/Rust/Rust.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+	"project": "enums-ch06.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
